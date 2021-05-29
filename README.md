@@ -1,6 +1,7 @@
 # Macbook Pro 13" Keyboard Cover
 
-![in use](in use.jpg)
+![in use](in_use.jpg)
+
 ![exposed](exposed.jpg)
 
 3d printed keyboard cover for a macbook pro 13" so you can put your own fancy
